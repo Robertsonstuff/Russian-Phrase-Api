@@ -1,0 +1,22 @@
+{
+    "phrase": [
+        {
+            "id":0,
+            "russian": "kak dyela?",
+            "english": "How are you doing?",
+            "subject": "greeting"
+        },
+        {
+            "id":1,
+            "russian": "zdrastvitye",
+            "english": "Hello",
+            "subject": "greeting"
+        },
+        {
+            "id":2,
+            "russian": "Privyet",
+            "english": "Hi (familiar)",
+            "subject": "greeting"
+        }
+    ]
+}
